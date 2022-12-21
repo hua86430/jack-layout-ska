@@ -1,0 +1,164 @@
+body {
+    width: 100%;
+}
+span, p{
+    font-family: 'Noto Sans TC', sans-serif !important;
+}
+
+.main {
+    padding-top: 40px;
+    margin: 0 auto;
+    max-width: 1920px;
+    width: 100%;
+}
+.green_bg{
+    background: #678F8D;
+}
+
+.container_inner {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.summary_title{
+    padding-bottom: 8px;
+    border-bottom: 2px solid #000;
+    margin-bottom: 16px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.summary_title span{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.summary_title span:nth-child(1){
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    padding-right: 16px;
+}
+
+.summary_title span:nth-child(2){
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FF6670;
+}
+
+
+.content_text {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+}
+
+
+.resume_block {
+    margin-bottom: 40px;
+}
+
+.resume_title{
+    font-size: 80px;
+    line-height: 95px;
+    padding-bottom: 24px;
+    margin-bottom: 40px;
+    border-bottom: 2px solid #000;
+}
+
+.resume_img {
+    width: 320px;
+    height: 300px;
+}
+
+
+.profile_container{
+    margin-bottom: 40px;
+}
+
+.profile_content_top{
+    margin-bottom: 24px;
+}
+
+.education_container{
+    margin-bottom: 64px;
+}
+
+.education_content_top{
+    margin-bottom: 16px;
+}
+
+
+#skills_container{
+    padding: 24px 0 40px;
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+#skills_container span{
+    color: #fff;
+}
+
+#skills_container .summary_title{
+    border-color: #fff;
+}
+
+.skills_inner{
+    max-width: 996px;
+}
+
+.skills_list_container{
+    margin-top: 24px;
+    text-align: left;
+    border-left: 1px solid #fff;
+    padding-left: 24px;
+    display: inline-block;
+}
+
+.skills_list_container li{
+    margin-top: 8px;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+#work_container{
+    margin-bottom: 80px;h
+}
+
+.work_description{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.work_list li{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 24px;
+}
+
+#contact_container{
+    text-align: center;
+    padding: 24px 0 40px;
+}
+
+#contact_container span{
+    color: #fff;
+}
+
+#contact_container .summary_title{
+    border-color: #fff;
+    margin-bottom: 8px;
+}
+
+.contact_content li{
+    margin-top: 16px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.yt_img{
+    margin: 0 24px;
+}
