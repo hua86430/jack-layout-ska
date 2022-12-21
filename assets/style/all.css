@@ -21,6 +21,11 @@ span, p{
     margin: 0 auto;
 }
 
+.max-w-996 {
+    max-width: 996px;
+}
+
+
 .summary_title{
     padding-bottom: 8px;
     border-bottom: 2px solid #000;
@@ -104,10 +109,6 @@ span, p{
     border-color: #fff;
 }
 
-.skills_inner{
-    max-width: 996px;
-}
-
 .skills_list_container{
     margin-top: 24px;
     text-align: left;
@@ -131,6 +132,12 @@ span, p{
     line-height: 30px;
 }
 
+.work_content{
+    margin-left: 24px;
+    padding-left: 24px;
+    border-left: 1px solid #678F8D;
+}
+
 .work_list li{
     font-weight: 500;
     font-size: 24px;
@@ -151,6 +158,7 @@ span, p{
     border-color: #fff;
     margin-bottom: 8px;
 }
+
 
 .contact_content li{
     margin-top: 16px;
