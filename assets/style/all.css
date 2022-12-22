@@ -39,7 +39,7 @@ span, p{
 }
 
 .summary_title span:nth-child(1){
-    font-weight: 600;
+    font-weight: 500;
     font-size: 32px;
     line-height: 48px;
     padding-right: 16px;
